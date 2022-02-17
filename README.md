@@ -6,7 +6,7 @@ This repository serves as a walk-through to begin a data analysis project on the
 
 The cluster is a very large collection of computers with a shared file system. It does not have a screen and a keyboard you can go use. However, by connecting to the cluster from your computer, you can create and edit files much like if they were on your machine. The goal here is to take you through all the steps required to make this possible.
 
-**NB:** This is not a leisure read. Make sure you follow it to the letter, doing each step in order.
+**NB:** This is not a leisure read. Make sure you follow it to the letter, doing each step in order..
 
 Before you can begin, you need access to the cluster. The cluster is called GenomeDK and has its own [website](https://genome.au.dk) with lots of information and documentation. To get an account on the cluster, you [request one here](https://genome.au.dk/docs/getting-started/#request-access). Below, `username` will represent your user name.
 
