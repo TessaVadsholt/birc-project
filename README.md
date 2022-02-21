@@ -10,7 +10,7 @@ The cluster is a very large collection of computers with a shared file system. I
 
 Before you can begin, you need access to the cluster. The cluster is called GenomeDK and has its own [website](https://genome.au.dk) with lots of information and documentation. To get an account on the cluster, you [request one here](https://genome.au.dk/docs/getting-started/#request-access). Below, `username` will represent your user name.
 
-On the cluster, you have a home folder that only you have can access. That is where you end up when you log in. Collaborative projects or projects that use or generate a lot of data projects belong in project folders. If you do a project, we will set up a dedicated project folder for this. 
+On the cluster, you have a home folder that only you have can access. That is where you end up when you log in. Collaborative projects or projects that use or generate a lot of data projects belong in project folders. If you do a project, we will set up a dedicated project folder for this..
 
 Your project is a research project. Even if it is meant for training, think of it as training reproducibility too. Your efforts, experiences, results, and developed expertise is valuable to all that comes after you. So do not make your project a dead end; make it a shoulder to stand on.
 
